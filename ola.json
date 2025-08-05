@@ -67,7 +67,7 @@
     "elementType": "geometry.fill",
     "stylers": [
       {
-        "color": "#d0ff7c"    // Ola yellow-green
+        "color": "#d0ff7c"
       }
     ]
   },
@@ -76,7 +76,7 @@
     "elementType": "geometry.stroke",
     "stylers": [
       {
-        "color": "#bcf253"    // Slightly stronger Ola accent
+        "color": "#bcf253"
       }
     ]
   },
@@ -103,7 +103,7 @@
     "elementType": "geometry.fill",
     "stylers": [
       {
-        "color": "#ffe976"    // Ola’s yellow highlight
+        "color": "#ffe976"
       }
     ]
   },
